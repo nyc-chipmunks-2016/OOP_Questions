@@ -21,3 +21,8 @@
 19. When would you use a class but not a module?
 20. How does inheritance work?
 21. What does #super do? Why use it?
+
+
+Resources:
+
+https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1
